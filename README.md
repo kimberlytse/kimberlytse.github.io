@@ -14,11 +14,11 @@ This is an semester-long summer research project in the funding provided by the 
 - Link to GitHub Page of this research
 
 ## Academic Coursework
-Introductary Programming:
+Introductory Programming:
 - [Link to my repository regarding introductary C programming](https://github.com/kimberlytse/Introductory-C-Programming)
 
 Object-Oriented Programming - Java:
-- Link to my repository regarding introductary OOP
+- Link to my repository regarding introductory OOP
 
 Data Structures - C:
 - [Link to my repository regarding data structures.](https://github.com/kimberlytse/DataStructures)
