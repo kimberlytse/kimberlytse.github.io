@@ -7,8 +7,14 @@ This website showcases my programmng projects as well as projects that requires 
 Here are all the projects that I have done in school - ranging from academic courses to research.
 
 ## Academic Coursework
-- insert academic coursework
+###Introductary Programming:
+- Link to my repository regarding introductary C programming
+
+###Object-Oriented Programming - Java:
+- Link to my repository regarding introductary OOP
+
+###Data Structures - C:
 
 ## Research
-- insert research
+###Analysis and Forecasting of Fatal Police Shootings in the U.S.
 
