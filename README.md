@@ -18,7 +18,7 @@ Introductory Programming:
 - [Link to my repository regarding introductary C programming](https://github.com/kimberlytse/Introductory-C-Programming)
 
 Object-Oriented Programming - Java:
-- Link to my repository regarding introductory OOP
+- [Link to my repository regarding introductory OOP](https://github.com/kimberlytse/OOP-Java)
 
 Data Structures - C:
 - [Link to my repository regarding data structures.](https://github.com/kimberlytse/DataStructures)
