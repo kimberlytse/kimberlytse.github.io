@@ -19,5 +19,7 @@ Data Structures - C:
 ## Research
 **Analysis and Forecasting of Fatal Police Shootings in the U.S. :**<br/>
 *Authors: Arbaaz M. & Kimberly T.*<br/>
-  This is an semester-long summer research project under the guidance of Dr. Sayed Mostafa. We did a comprehensive analysis of fatal police shootings over the period of 2015-2020   with an emphasis on police funding and forecasting the number of fatal police shootings.
+*Research Mentor: Dr. Sayed Mostafa.*<br/>
+This is an semester-long summer research project in the funding provided by the NSA and NSF Organization and hosted by the NC A&T University. We did a comprehensive analysis of fatal police shootings over the period of 2015-2020 with an emphasis on police funding and forecasting the number of fatal police shootings.
+- Link to GitHub Page of this research
 
