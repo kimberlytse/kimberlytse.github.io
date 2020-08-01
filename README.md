@@ -17,7 +17,7 @@ Data Structures - C:
 - Link to my repository regarding data structures.
 
 ## Research
-Analysis and Forecasting of Fatal Police Shootings in the U.S. :<br/>
-Authors: Arbaaz M. & Kimberly T.<br/>
-This is an semester-long summer research project under the guidance of Dr. Sayed Mostafa. We did a comprehensive analysis of fatal police shootings over the period of 2015-2020 with an emphasis on police funding and forecasting the number of fatal police shootings.
+**Analysis and Forecasting of Fatal Police Shootings in the U.S. :**<br/>
+*Authors: Arbaaz M. & Kimberly T.*<br/>
+  This is an semester-long summer research project under the guidance of Dr. Sayed Mostafa. We did a comprehensive analysis of fatal police shootings over the period of 2015-2020   with an emphasis on police funding and forecasting the number of fatal police shootings.
 
