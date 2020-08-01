@@ -14,7 +14,7 @@ Object-Oriented Programming - Java:
 - Link to my repository regarding introductary OOP
 
 Data Structures - C:
-- Link to my repository regarding data structures.
+- [Link to my repository regarding data structures.](https://github.com/kimberlytse/DataStructures)
 
 ## Research
 **Analysis and Forecasting of Fatal Police Shootings in the U.S. :**<br/>
