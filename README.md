@@ -1,6 +1,6 @@
 # GitHub Portfolio - Kimberly Tse
 ## Welcome
-Hello everyone, my name is Kimberly Tse, and I am a undergraduate computer engineering student.<br/>
+Hello everyone, my name is Kimberly Tse, and I am an undergraduate computer engineering student.<br/>
 This website showcases my programmng projects as well as projects that requires programming.
 
 ## About
