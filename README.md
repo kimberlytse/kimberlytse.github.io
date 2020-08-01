@@ -8,7 +8,7 @@ Here are all the projects that I have done in school - ranging from academic cou
 
 ## Academic Coursework
 Introductary Programming:
-- Link to my repository regarding introductary C programming
+- [Link to my repository regarding introductary C programming](https://github.com/kimberlytse/Introductory-C-Programming)
 
 Object-Oriented Programming - Java:
 - Link to my repository regarding introductary OOP
