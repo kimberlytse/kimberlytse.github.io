@@ -10,8 +10,7 @@ Here are all the projects that I have done in school - ranging from academic cou
 **Analysis and Forecasting of Fatal Police Shootings in the U.S. :**<br/>
 *Authors: Arbaaz M. & Kimberly T.*<br/>
 *Research Mentor: Dr. Sayed Mostafa*<br/><br/>
-This is a semester-long summer research project in the funding provided by the NSA and NSF Organization and hosted by the NC A&T University. We did a comprehensive analysis of fatal police shootings over the period of 2015-2020 with an emphasis on police funding and forecasting the number of fatal police shootings.
-- Link to GitHub Page of this research
+- [Link to GitHub Page of this research](https://kimberlytse.github.io/fatalpoliceshootings-US/)
 
 ## Academic Coursework
 Introductory Programming:
